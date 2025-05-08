@@ -40,6 +40,34 @@ The application follows modern architecture with:
 * Shopping cart and order history
 * Admin inventory management system
 
+## Install Modules & Run Project
+
+  ##for mongodb connection
+  create new folder & go to that folder and then
+
+  npm init -y
+
+  npm install jsonwebtoken
+  npm install express-rate-limit
+  npm install helmet
+  npm install cors
+  npm install bcrypt
+  npm install mongodb mongoose express dotenv
+
+  node import-data.js
+
+  node server.js
+
+  ---------------------------------------------------
+
+  fashion website
+
+  https://github.com/Kuzma02/Fashion-eCommerce-Shop-in-React
+
+  npm install
+
+  npm start
+
 ## Scalability
 
 Designed for growth in both product catalog size and user base through component-based architecture and horizontally scalable database.
